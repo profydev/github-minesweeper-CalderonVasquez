@@ -1,7 +1,8 @@
 {
 
   "commands": [
-   "clear E4"
+   "clear E4",
+   "clear F8"
   ]
 
 }
